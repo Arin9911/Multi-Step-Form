@@ -1,0 +1,19 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items:center;
+    margin: 10px;
+    width: 60%;
+    min-height: 50vh;
+    background-color:whitesmoke;
+    list-style: none;
+}
+
+.item{
+    background-color: thistle;
+    padding: 10px;
+    min-width: 400px;
+    text-align: left;
+    margin: 10px;
+}

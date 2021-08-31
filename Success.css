@@ -1,0 +1,17 @@
+.header{
+    font-size: 2rem;
+    background-color:#360663;
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.main{
+    margin: 20px;
+}
+
+.main,p{
+    margin: 10px;
+}
